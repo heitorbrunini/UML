@@ -6,7 +6,7 @@ Este é um projeto básico que exemplifica o funcionamento de um banco, desenvol
 
 O diagrama de caso de uso é uma ferramenta fundamental na análise e modelagem de sistemas de software. Ele descreve as interações entre os usuários (atores) e o sistema, identificando os principais casos de uso e seus relacionamentos. O diagrama de caso de uso proporciona uma visão clara e concisa dos requisitos funcionais do sistema, ajudando a garantir uma compreensão comum entre os stakeholders e fornecendo uma base sólida para o desenvolvimento do software.
 
-![Diagrama de Caso de Uso](./resources/UML.png)
+![Diagrama de Caso de Uso](https://github.com/heitorbrunini/UML/blob/master/Caso_de_uso/resorces/UML.png)
 
 *Figura 1: Diagrama de Caso de Uso do Projeto*
 
@@ -14,11 +14,9 @@ O diagrama de caso de uso é uma ferramenta fundamental na análise e modelagem 
 
 O projeto inclui as seguintes funcionalidades básicas:
 
-- Cadastro de Clientes
 - Login de Clientes
 - Consulta de Saldo
-- Depósito Bancário
-- Saque de Fundos
+- Realizar Pagamento
 - Transferência entre Contas
 
 ## Como Executar o Projeto
