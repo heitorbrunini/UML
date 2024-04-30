@@ -1,0 +1,17 @@
+package Uteis;
+
+public class Utilitarios {
+	
+	public void ajuda() {
+		System.out.println(
+				"olá! caso esteja em dúvida, contate o suporte 4002-8922"
+		);
+	}
+	
+	public void informacao() {
+		System.out.println(
+				"olá! seus dados estão seguros no nosso protocolo ASBC, seus dados não serão compartilhados pela lei LGPD!"
+		);
+	}
+	
+}

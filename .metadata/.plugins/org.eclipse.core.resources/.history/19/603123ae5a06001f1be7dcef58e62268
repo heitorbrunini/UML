@@ -1,0 +1,18 @@
+package Entidades;
+
+public class cliente {
+	
+	private String name;
+	private String CPF;
+	private String passWord;
+	
+	public cliente(String name, String cPF, String passWord) {
+		this.name = name;
+		CPF = cPF;
+		this.passWord = passWord;
+	}
+	
+	
+	
+
+}

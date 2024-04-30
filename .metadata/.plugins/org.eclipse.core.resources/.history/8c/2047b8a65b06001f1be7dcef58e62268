@@ -1,0 +1,11 @@
+package Entidades;
+
+import java.util.ArrayList;
+
+public class banco{
+	
+	ArrayList<cliente> Clientes = new ArrayList<>();
+	
+	
+	
+}

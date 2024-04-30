@@ -1,0 +1,11 @@
+package Uteis;
+
+public class Utilitarios {
+	
+	public void ajuda() {
+		System.out.println(
+				"olá! caso esteja em dúvida, contate o suporte 4002-8922"
+		);
+	}
+	
+}

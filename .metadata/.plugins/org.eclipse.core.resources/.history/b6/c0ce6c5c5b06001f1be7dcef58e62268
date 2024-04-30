@@ -1,0 +1,47 @@
+package Entidades;
+
+public class cliente {
+	
+	private String name;
+	private String CPF;
+	private String passWord;
+	
+	public cliente(String name, String cPF, String passWord) {
+		this.name = name;
+		CPF = cPF;
+		this.passWord = passWord;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getCPF() {
+		return CPF;
+	}
+
+	public void setCPF(String cPF) {
+		CPF = cPF;
+	}
+
+	public String getPassWord() {
+		return passWord;
+	}
+
+	public void setPassWord(String passWord) {
+		this.passWord = passWord;
+	}
+
+	@Override
+	public String toString() {
+		return "cliente [name=" + name + ", CPF=" + CPF + "]";
+	}
+	
+	
+	
+
+}

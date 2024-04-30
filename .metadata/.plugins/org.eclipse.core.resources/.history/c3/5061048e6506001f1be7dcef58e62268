@@ -1,0 +1,34 @@
+package application;
+
+import java.util.Scanner;
+
+import entidades.Banco;
+import entidades.Conta;
+
+public class Main {
+
+	public static void main(String[] args) {
+		//criando dados
+		Banco bancoCn = new Banco("Banco Coreia do Norte");
+		Conta alana = new Conta("Alana", "123.456.789-10", "deumaoito", 100.00);
+		
+		bancoCn.adicionarContas(alana);
+		
+		//entrando no sistema
+		Scanner sc = new Scanner(System.in);
+		
+		Boolean login = false;
+		
+		do {
+			System.out.println("Seja bem vindo ao banco: " + bancoCn.getBanconame() );
+			System.out.println("Digite seu número de conta: ");
+			Integer nConta =  sc.nextInt();
+			System.out.println("Digite sua senha de conta: ");
+			String sConta =  sc.next();
+			
+			
+		} while (login==false);
+
+	}
+
+}

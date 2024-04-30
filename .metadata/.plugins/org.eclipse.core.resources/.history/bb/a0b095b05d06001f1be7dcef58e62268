@@ -1,0 +1,19 @@
+package Entidades;
+
+import java.util.ArrayList;
+
+public class Banco{
+	
+	ArrayList<Conta> Contas = new ArrayList<>();
+	
+	public void adicionarContas(Conta c) {		
+		c.setNumber(Contas.size());
+		Contas.add(c);
+	}
+	
+	public Double consultarSaldo(Integer number) {
+		
+		return null;
+	}
+	
+}

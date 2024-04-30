@@ -1,0 +1,14 @@
+package application;
+
+import entidades.Conta;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Conta alana = new Conta("Alana", "123.456.789-10", "deumaoito", 100.00);
+		
+
+	}
+
+}

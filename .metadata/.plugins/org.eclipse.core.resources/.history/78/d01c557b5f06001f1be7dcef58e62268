@@ -1,0 +1,49 @@
+package Entidades;
+
+import java.util.ArrayList;
+
+public class Banco{
+	
+	ArrayList<Conta> Contas = new ArrayList<>();
+	
+	public void adicionarContas(Conta c) {		
+		c.setNumber(Contas.size());
+		Contas.add(c);
+	}
+	
+	public Conta buscarConta(Integer number) {
+		return Contas.get(number);
+	}
+	
+	public Double consultarSaldo(Conta conta) {
+		
+		try {
+			return conta.getSaldo();			
+		} catch (Error e) {
+			System.out.println("Conta não existente");
+			return null;
+		}	
+		
+	}
+	
+	public void fazerTrasferencia(Conta c1, Conta c2, Double value) {
+		try {
+			
+			c1.setSaldo(c1.getSaldo() - value);
+			
+			if (consultarSaldo(c1) < value) {
+				throw new IllegalArgumentException("Não foi possível concluir a transação, saldo insuficiente");
+			}
+			
+			c2.setSaldo(c2.getSaldo() + value);
+			
+			System.out.println("++++++++++ Transação concluida: ++++++++++");
+			System.out.println("Saldo restante:");
+			System.out.println(c1);
+			
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
+	}
+	
+}
