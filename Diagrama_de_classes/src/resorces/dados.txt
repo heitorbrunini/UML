@@ -1,0 +1,3 @@
+0,Camisa Vermelha,Camisa de algodão 100%,R$50.00,10
+1,Calça Jeans,Calça jeans slim fit,R$80.00,Roupas,15
+2,Tênis Esportivo,Tênis para corrida,R$120.00,Calçados,20
