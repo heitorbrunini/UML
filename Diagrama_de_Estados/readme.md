@@ -6,7 +6,7 @@ Este é um projeto básico de uma academia desenvolvido para exemplificar um dia
 
 O diagrama de estados é uma ferramenta essencial na modelagem de sistemas reativos, como sistemas de controle, software embarcado e aplicativos de tempo real. Ele descreve o comportamento dinâmico de um objeto ou sistema ao longo do tempo, mostrando os diferentes estados que o objeto pode assumir e as transições entre esses estados em resposta a eventos ou condições específicas.
 
-![Diagrama de Estados]!(https://github.com/heitorbrunini/UML/blob/master/Diagrama_de_Estados/resorces/UML.png)
+![Diagrama de Estados](https://github.com/heitorbrunini/UML/blob/master/Diagrama_de_Estados/resorces/UML.png)
 
 *Figura 1: Diagrama de Estados do Projeto*
 
