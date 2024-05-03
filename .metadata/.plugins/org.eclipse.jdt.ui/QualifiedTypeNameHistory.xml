@@ -3,9 +3,11 @@
     <fullyQualifiedTypeName name="entidades.Conta"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="entidades.Administrador"/>
     <fullyQualifiedTypeName name="entidades.compra.Pedido"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="utils.Utils"/>
 </qualifiedTypeNameHistroy>
