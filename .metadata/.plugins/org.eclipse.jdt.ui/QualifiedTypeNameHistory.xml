@@ -10,4 +10,9 @@
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="utils.Utils"/>
+    <fullyQualifiedTypeName name="application.Estado"/>
+    <fullyQualifiedTypeName name="Enums.Estado"/>
+    <fullyQualifiedTypeName name="entidades.Carrinho"/>
+    <fullyQualifiedTypeName name="java.lang.Throwable"/>
+    <fullyQualifiedTypeName name="entidades.Pedido"/>
 </qualifiedTypeNameHistroy>
