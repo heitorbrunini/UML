@@ -14,7 +14,7 @@ Aqui está uma visão geral dos projetos e diagramas incluídos neste repositór
 
 3. **Diagrama de Sequência ->** [Funcionamento de um Banco 2](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_sequência)
 
-4. **Diagrama de Estados ->** [Academia: Gestão de Clientes e Mensalidades](https://github.com/heitorbrunini/UML/tree/master/https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Estados)
+4. **Diagrama de Estados ->** [Academia: Gestão de Clientes e Mensalidades](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Estados)
 
 5. **Diagrama de Atividades ->** [E-Commerce: Gestão de Carrinho de Compras](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Atividades)
 
