@@ -39,6 +39,10 @@ public class Carrinho {
 				pedidos.get(index).setEndereco(valor);
 				break;
 			}
+			case "remover":{
+				pedidos.remove(index);
+				break;
+			}
 		default:
 			throw new IllegalArgumentException("Não foi possível realizar a alteração" );
 		}
@@ -51,5 +55,12 @@ public class Carrinho {
 	public void comfirmarPedido() {
 		pedidos.forEach(pedido -> pedido.setEstado(Estado.PAGAMENTO));
 	}
+
+	@Override
+	public String toString() {
+		return "Carrinho: pedidos=" + pedidos ;
+	}
+	
+	
 	
 }

@@ -73,7 +73,7 @@ public class Pedido {
 
 	@Override
 	public String toString() {
-		return "Pedido [item=" + item + ", quantidade=" + quantidade + ", endereco=" + endereco + ", titular=" + titular
+		return " [item=" + item + ", quantidade=" + quantidade + ", endereco=" + endereco + ", titular=" + titular
 				+ "]";
 	}
 	
