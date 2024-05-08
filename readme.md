@@ -8,15 +8,15 @@ Além dos projetos e diagramas, também foi incluído um PDF de apoio com anota�
 
 Aqui está uma visão geral dos projetos e diagramas incluídos neste repositório:
 
-1. **Projeto 1 ->** [Funcionamento de um Banco](https://github.com/heitorbrunini/UML/tree/master/Caso_de_uso)
+1. **Caso de Uso ->** [Funcionamento de um Banco](https://github.com/heitorbrunini/UML/tree/master/Caso_de_uso)
 
-2. **Projeto 2 ->** [Projeto Básico de E-commerce](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_classes)
+2. **Diagrama de Classes ->** [Projeto Básico de E-commerce](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_classes)
 
-3. **Projeto 3 ->** [Funcionamento de um Banco 2](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_sequência)
+3. **Diagrama de Sequência ->** [Funcionamento de um Banco 2](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_sequência)
 
-4. **Projeto 4 ->** [Academia: Gestão de Clientes e Mensalidades](https://github.com/heitorbrunini/UML/tree/master/https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Estados)
+4. **Diagrama de Estados ->** [Academia: Gestão de Clientes e Mensalidades](https://github.com/heitorbrunini/UML/tree/master/https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Estados)
 
-5. **Projeto 5 ->** [E-Commerce: Gestão de Carrinho de Compras](https://github.com/heitorbrunini/UML/tree/master/https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Estados)
+5. **Diagrama de Atividades ->** [E-Commerce: Gestão de Carrinho de Compras](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Atividades)
 
 ## Como Utilizar
 
