@@ -8,15 +8,15 @@ Além dos projetos e diagramas, também foi incluído um PDF de apoio com anota�
 
 Aqui está uma visão geral dos projetos e diagramas incluídos neste repositório:
 
-1. **Projeto 1 ->** Funcionamento de um Banco[Link](https://github.com/heitorbrunini/UML/tree/master/Caso_de_uso)
+1. **Projeto 1 ->** [Funcionamento de um Banco](https://github.com/heitorbrunini/UML/tree/master/Caso_de_uso)
 
-2. **Projeto 2 ->** Projeto Básico de E-commerce [Link](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_classes)
+2. **Projeto 2 ->** [Projeto Básico de E-commerce](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_classes)
 
-3. **Projeto 3 ->** Funcionamento de um Banco 2 [Link](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_sequência)
+3. **Projeto 3 ->** [Funcionamento de um Banco 2](https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_sequência)
 
-4. **Projeto 4 ->** Academia: Gestão de Clientes e Mensalidades [Link](https://github.com/heitorbrunini/UML/tree/master/https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Estados)
+4. **Projeto 4 ->** [Academia: Gestão de Clientes e Mensalidades](https://github.com/heitorbrunini/UML/tree/master/https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Estados)
 
-5. **Projeto 5 ->** E-Commerce: Gestão de Carrinho de Compras [Link](https://github.com/heitorbrunini/UML/tree/master/https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Estados)
+5. **Projeto 5 ->** [E-Commerce: Gestão de Carrinho de Compras](https://github.com/heitorbrunini/UML/tree/master/https://github.com/heitorbrunini/UML/tree/master/Diagrama_de_Estados)
 
 ## Como Utilizar
 
@@ -26,7 +26,7 @@ Para explorar os projetos e diagramas, basta navegar para cada diretório corres
 
 Além dos projetos e diagramas, também foi incluído um PDF de apoio com anotações sobre os conceitos da UML. Este PDF pode ser útil para revisão e referência durante seus estudos sobre UML.
 
-Estudo diagramas UML.pdf[Link](https://github.com/heitorbrunini/UML/blob/master/Estudo%20diagramas%20UML.pdf)
+[Estudo diagramas UML.pdf](https://github.com/heitorbrunini/UML/blob/master/Estudo%20diagramas%20UML.pdf)
 
 ## Contribuições
 
